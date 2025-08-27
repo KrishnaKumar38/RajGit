@@ -1,2 +1,2 @@
 alert('Hello World');
-console.log('prithivi');
+console.log('Rajeshwar');
